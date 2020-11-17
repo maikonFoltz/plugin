@@ -1,4 +1,4 @@
 $(function(){
 
-    $('#cep').mask('00000-000')
+    $('a').novaAcao();
 })
